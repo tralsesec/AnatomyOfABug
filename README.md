@@ -13,7 +13,7 @@
 
 ## 📜 Manifesto
 
-**Anatomy of a Bug** is a weekly research series dedicated to deconstructing the most sophisticated exploits in the wild. We move beyond the "what" and focus on the "how" and "why."
+**#! Anatomy of a Bug** is a weekly research series dedicated to deconstructing the most sophisticated exploits in the wild. We move beyond the "what" and focus on the "how" and "why."
 
 Each report follows a strict forensic structure:
 1.  **The Patient:** The target system and its architectural context.
